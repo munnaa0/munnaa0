@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=009688&height=250&section=header&text=Hello,%20I'm%20Munna!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Enthusiast&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=009688&height=250&section=header&text=Hello,%20I'm%20Meownna!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Enthusiast&descAlignY=55&descSize=20)
 
 ### 🌠 Transitioning to Backend Development with Django
 
